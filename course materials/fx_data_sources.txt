@@ -1,0 +1,8 @@
+FOREX.com
+https://www.forex.com/en-us/premium-trader-tools/api-trading/
+
+FXCM
+https://www.fxcm.com/markets/algorithmic-trading/market-data/
+
+Forex Tester
+https://desktop.forextester.com/data/datasources

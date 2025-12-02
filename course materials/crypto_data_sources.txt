@@ -1,0 +1,14 @@
+Historic Crypto
+https://pypi.org/project/Historic-Crypto/
+
+Bitfinex
+https://pypi.org/project/bitfinex/
+
+Investpy (investing.com)
+https://www.investing.com/charts/cryptocurrency-charts
+
+Kaiko
+https://www.kaiko.com/pages/cryptocurrency-data-types#derivatives
+
+CBOE DataShop
+https://datashop.cboe.com/coinroutes-realprice

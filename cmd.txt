@@ -1,0 +1,16 @@
+python -m [folder].[filename] // python -m forex.daily_price_fx
+mkdir quantra-getting-data
+cd quantra-getting-data
+code .
+python -m venv env
+cd env/Scripts
+./activate
+New-Item -Path .\cmd.txt -ItemType File
+
+pip install --upgrade yfinance
+
+python -m daily_price_data
+
+pip install lxml
+
+pip install ccxt

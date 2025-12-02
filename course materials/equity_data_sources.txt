@@ -1,0 +1,17 @@
+Yahoo Finance
+https://pypi.org/project/yfinance/
+
+Pandas Datareader
+https://pypi.org/project/pandas-datareader/
+
+Alpha Vantage
+https://www.alphavantage.co
+
+Interactive Brokers
+https://interactivebrokers.github.io/tws-api/index.html
+
+Polygon.io
+https://massive.com/stocks#stocks-product-cards
+
+Refinitiv
+https://www.lseg.com/en/data-analytics/market-data/data-feeds/tick-history
