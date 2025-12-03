@@ -1,0 +1,15 @@
+Quandl SCF
+https://www.quandl.com/databases/SCF/data
+
+Barcharts
+https://www.barchart.com/
+
+Interactive Brokers Data Feed
+https://www.interactivebrokers.com/
+
+CSI Data
+http://www.csidata.com/
+
+Norgate Data
+https://norgatedata.com/
+
