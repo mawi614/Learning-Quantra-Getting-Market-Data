@@ -1,0 +1,9 @@
+Simfin (Free Fundamental Data)
+https://simfin.com/data/bulk
+
+EOD Historical Data
+https://eodhistoricaldata.com/financial-apis/stock-etfs-fundamental-data-feeds/
+
+Morningstar
+https://www.morningstar.com/products/data
+
