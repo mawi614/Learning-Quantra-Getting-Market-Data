@@ -16,3 +16,9 @@ pip install lxml
 pip install ccxt
 
 pip install --upgrade simfin
+
+pip install --upgrade wbdata
+
+pip install wbgapi
+
+pip install newsapi-python

@@ -1,0 +1,10 @@
+Other news data sources
+
+Google News
+https://medium.com/fintechexplained/use-python-to-fetch-google-news-6a340e9ebc8f
+
+NewsAPI
+https://newsapi.org/docs/get-started
+
+NewsFetch
+https://pypi.org/project/news-fetch/

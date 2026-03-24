@@ -1,0 +1,14 @@
+World Bank Open Data
+https://data360.worldbank.org/en/api (REST API)
+https://pypi.org/project/wbdata/
+
+ALFRED (FRED) for US Data
+https://fredaccount.stlouisfed.org/apikey
+
+Eurostat for European Country Data
+https://pypi.org/project/eurostat/
+
+Other Sources
+https://www.oecd.org/en/data/insights/data-explainers/2024/09/api.html
+https://www.ceicdata.com/en/countries
+https://www.imf.org/en/Data
